@@ -1,6 +1,4 @@
-<h1 align="center">{Country Quiz}</h1>
-
-# Frontend Mentor - E-commerce product page
+<h1 align="center">Country Quiz</h1>
 
 
 ## Welcome! 👋
@@ -19,6 +17,8 @@
 - In this Project I used to one different thing timer , after this timer off we can easily find right answer of questions  
 
 ## Demo
+
+https://user-images.githubusercontent.com/90523453/155560182-d7313ae3-f073-4d42-a447-2661abb6c07d.mp4
 
 ## Live Link
 - Pooja-saini467()
